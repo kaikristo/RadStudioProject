@@ -1,6 +1,6 @@
 ﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
-        <ProjectGuid>{A816BAD2-DC67-47BE-B1DA-3B7F535E5060}</ProjectGuid>
+        <ProjectGuid>{4A598A3F-CDCC-40EA-8311-A017EB062532}</ProjectGuid>
         <ProjectVersion>18.6</ProjectVersion>
         <FrameworkType>VCL</FrameworkType>
         <AppType>Application</AppType>
@@ -129,6 +129,23 @@
         <BCC_PCHName_Clang>Project1PCH1.h</BCC_PCHName_Clang>
     </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="Character.cpp">
+            <DependentOn>Character.h</DependentOn>
+            <BuildOrder>4</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="Form1Unit.cpp">
+            <Form>Form1</Form>
+            <FormType>dfm</FormType>
+            <DependentOn>Form1Unit.h</DependentOn>
+            <BuildOrder>2</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="Map.cpp">
+            <DependentOn>Map.h</DependentOn>
+            <BuildOrder>3</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="PathFinder2D.cpp">
+            <BuildOrder>5</BuildOrder>
+        </CppCompile>
         <CppCompile Include="Project1.cpp">
             <BuildOrder>0</BuildOrder>
         </CppCompile>
@@ -136,13 +153,7 @@
             <BuildOrder>1</BuildOrder>
             <PCH>true</PCH>
         </PCHCompile>
-        <CppCompile Include="Unit1.cpp">
-            <Form>Form1</Form>
-            <FormType>dfm</FormType>
-            <DependentOn>Unit1.h</DependentOn>
-            <BuildOrder>2</BuildOrder>
-        </CppCompile>
-        <FormResources Include="Unit1.dfm"/>
+        <FormResources Include="Form1Unit.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
