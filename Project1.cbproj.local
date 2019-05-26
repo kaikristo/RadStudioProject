@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.132,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.818,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.26 17:50:34.674,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.26 17:50:34.766,=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.26 17:50:46.056,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Новая папка\Unit1.h=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.05.26 17:50:46.056,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Новая папка\Unit1.dfm=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.05.26 17:50:46.056,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Новая папка\Unit1.cpp=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.26 17:50:46.674,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Новая папка\Project1PCH1.h=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.26 17:50:48.058,C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Новая папка\Project1.cbproj=C:\Users\KaiKristo\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
